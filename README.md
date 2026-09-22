@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CHURNGUARD-AI
-=======
 # CHURNGUARD AI
 
 Customer Churn Prediction & Retention Intelligence System.
@@ -33,4 +30,4 @@ CHURNGUARD_AI_PACKAGE/
 ├── images/
 └── report/
 ```
->>>>>>> 6f1edeb (Initial commit)
+
